@@ -120,6 +120,23 @@ Perfect for a **portfolio or GitHub showcase** highlighting full-stack Java capa
 
 ---
 
+## 📞 Contact & Support
+
+For questions, suggestions, or collaboration opportunities:
+- Open an issue on GitHub
+- Email: michaelsemera15@gmail.com
+- LinkedIn: [Michael Semera](https://www.linkedin.com/in/michael-semera-586737295/)
+
+For issues or questions:
+- Review this documentation
+- Check the troubleshooting section
+- Ensure proper privileges and setup
+- Verify libpcap installation
+
+---
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is for **educational and portfolio purposes**. The NLP logic is simplified and does not represent full AI understanding. For production, integrate robust NLP frameworks or APIs.
@@ -127,3 +144,4 @@ This project is for **educational and portfolio purposes**. The NLP logic is sim
 ---
 
 © 2025 Michael Semera. All Rights Reserved.  Licensed under MIT.
+
