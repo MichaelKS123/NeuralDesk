@@ -135,8 +135,6 @@ For issues or questions:
 
 ---
 
----
-
 ## ⚠️ Disclaimer
 
 This project is for **educational and portfolio purposes**. The NLP logic is simplified and does not represent full AI understanding. For production, integrate robust NLP frameworks or APIs.
@@ -144,4 +142,5 @@ This project is for **educational and portfolio purposes**. The NLP logic is sim
 ---
 
 © 2025 Michael Semera. All Rights Reserved.  Licensed under MIT.
+
 
